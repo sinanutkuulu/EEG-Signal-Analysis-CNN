@@ -1,4 +1,4 @@
-# EEG-Signal-Classification
+# EEG Signal Representation: From Time Series to Image Analysis with CNN:
 CS554 - Machine Learning Class Project
 
 Purpose of the project is analyzing the performance change of feeding image data of EEG signals to CNN instead of time series data.
