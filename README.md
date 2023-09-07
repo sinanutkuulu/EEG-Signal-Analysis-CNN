@@ -1,6 +1,7 @@
 # EEG-Signal-Classification
 CS554 - Machine Learning Class Project
 
+Purpose of the project is analyzing the performance change of feeding image data of EEG signals to CNN instead of time series data.
 ## Converting Time Series Data to Image
 Collected three different time series data must be transformed
 into 2D images because CNNs take an image as input
